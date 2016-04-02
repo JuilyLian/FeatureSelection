@@ -13,7 +13,7 @@ There are three primary features in IVEA-II.
 
 1. We design a new mutation operator to enhance the number of valid solutions which keeps all of the relationships among features, and to improve the quality of the final optimal solutions.
 
-The algorithm is implemented based on SATIBEA (Combining Multi-Objective Search and Constraint Solving for Configuring Large Software Product Lines) and jMetal.
+The algorithm is implemented based on the framework of SATIBEA (Combining Multi-Objective Search and Constraint Solving for Configuring Large Software Product Lines) and jMetal.
 Feature models
 --------------
 This file includes 6 models: ecos(3.0),fiasco(2011081207), freebsd(8.0.0), uClinux(20100825), Linux (2.6.28.6) and webProtal. The first five models are large-scale from (http://code.google.com/p/linux-variability-analysis-tools). And the last small model is selected from an online feature model repository SPLOT (http://www.splot-research.org/). 
