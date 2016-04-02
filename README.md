@@ -7,8 +7,8 @@ IVEA-II algorithm
 This is a multi-objective optimization algorithm which aims to select features in software product lines (SPLs) in the face of multiple objectives which are higily likey to be competing and conflicting. At the same time the features have massive dependencies and constraints among themselves. In practice, these relationships are mandotory rules that have to be conformed by all of the derived products in the SPL. 
 There are three primary features in IVEA-II.
 1. We design a two-dimensional fitness function to control the feature relationships conformance and optimize the multiple objectives meanwhile.
-2.We introduce crownding distance to improve the diversity of the approximate solutions.
-3.We design a new mutation operator to enhance the number of valid solutions which keeps all of the relationships among features, and to improve the quality of the final optimal solutions.
+1. We introduce crownding distance to improve the diversity of the approximate solutions.
+1. We design a new mutation operator to enhance the number of valid solutions which keeps all of the relationships among features, and to improve the quality of the final optimal solutions.
 
 Feature models
 --------------
